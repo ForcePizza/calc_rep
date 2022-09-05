@@ -1,0 +1,16 @@
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.exe
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.deps.json
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.runtimeconfig.json
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.dll
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\ref\CalcProject.dll
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\bin\Debug\net5.0\CalcProject.pdb
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.AssemblyInfo.cs
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.dll
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\ref\CalcProject.dll
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.pdb
+C:\Users\Artur\source\repos\XP\Calc\CalcProject\obj\Debug\net5.0\CalcProject.genruntimeconfig.cache
