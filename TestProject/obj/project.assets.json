@@ -6130,39 +6130,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Artur\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/schoolgunslinger/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\TestProject\\obj\\",
+      "projectPath": "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/TestProject.csproj",
+      "packagesPath": "/Users/schoolgunslinger/.nuget/packages/",
+      "outputPath": "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/schoolgunslinger/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\CalcProject\\CalcProject.csproj": {
-              "projectPath": "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\CalcProject\\CalcProject.csproj"
+            "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/CalcProject/CalcProject.csproj": {
+              "projectPath": "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/CalcProject/CalcProject.csproj"
             }
           }
         }
@@ -6200,16 +6194,27 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

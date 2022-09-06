@@ -11,7 +11,7 @@ namespace CalcProject.App
     {
         public void Run ()
         {
-            Console.WriteLine("Helo,, wordldokdw!!");
+            Console.WriteLine("conflict");
         }
     }
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JyWkh+l0A2As/Y8xM5djcIbrKD0KcyYVBST0oT6Fs3agdva49n6k0YKtu1bvYxBeLzCKiu1E7csrRRNCtrLg6Q==",
+  "dgSpecHash": "ACEzdI/7JQPe7ES/o5j+zbO3gFwiOM0Kplk98Z6bxD1rRiUaNGpwv3juhM40fNliXC+3dw2GYpmlBO0J9Iqkzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artur\\source\\repos\\XP\\Calc\\CalcProject\\CalcProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/CalcProject/CalcProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/schoolgunslinger/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/schoolgunslinger/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/schoolgunslinger/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
