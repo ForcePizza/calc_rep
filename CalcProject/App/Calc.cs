@@ -12,6 +12,7 @@ namespace CalcProject.App
         public void Run ()
         {
             Console.WriteLine("conflict");
+            Console.WriteLine("continue");
         }
     }
 }
