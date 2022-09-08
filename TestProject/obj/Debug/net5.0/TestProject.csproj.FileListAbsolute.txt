@@ -1,106 +1,211 @@
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\testhost.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\testhost.exe
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\TestProject.deps.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.dev.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\TestProject.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ref\TestProject.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\TestProject.pdb
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.csproj.AssemblyReference.cache
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.csproj.CopyComplete
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\ref\TestProject.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.pdb
-C:\Users\Artur\source\repos\XP\Calc\TestProject\obj\Debug\net5.0\TestProject.genruntimeconfig.cache
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.deps.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.runtimeconfig.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.runtimeconfig.dev.json
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.exe
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.dll
-C:\Users\Artur\source\repos\XP\Calc\TestProject\bin\Debug\net5.0\CalcProject.pdb
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/testhost.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/testhost.exe
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.AdapterUtilities.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/TestProject.deps.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.dev.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/TestProject.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ref/TestProject.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/TestProject.pdb
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/NuGet.Frameworks.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.csproj.AssemblyReference.cache
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfoInputs.cache
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfo.cs
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.csproj.CoreCompileInputs.cache
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.csproj.CopyComplete
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/ref/TestProject.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.pdb
+C:/Users/Artur/source/repos/XP/Calc/TestProject/obj/Debug/net5.0/TestProject.genruntimeconfig.cache
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CoverletSourceRootsMapping
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.deps.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.runtimeconfig.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.runtimeconfig.dev.json
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.exe
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.dll
+C:/Users/Artur/source/repos/XP/Calc/TestProject/bin/Debug/net5.0/CalcProject.pdb
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject.deps.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject.runtimeconfig.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject.runtimeconfig.dev.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/TestProject.deps.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.dev.json
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/TestProject.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/TestProject.pdb
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/testhost.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/bin/Debug/net5.0/CalcProject.pdb
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.csproj.AssemblyReference.cache
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfoInputs.cache
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfo.cs
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.csproj.CopyComplete
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/refint/TestProject.dll
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.pdb
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/TestProject.genruntimeconfig.cache
+/Users/schoolgunslinger/Documents/Development/School/Extreme Programming/calc_rep/TestProject/obj/Debug/net5.0/ref/TestProject.dll

@@ -1,3 +1,4 @@
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using CalcProject.App;
 
@@ -10,7 +11,6 @@ namespace TestProject
         public void TestCalc()
         {
             CalcProject.App.Calc calc = new();
-            Assert.IsNotNull(calc);
         }
         [TestMethod]
         public void RomanNumberParse()
@@ -38,5 +38,32 @@ namespace TestProject
             //Assert.AreEqual(RomanNumber.Parse("LV"), 55);
             //Assert.AreEqual(RomanNumber.Parse("XL"), 40);
         }
+        [TestMethod]
+        public void RomanNumberParse1Digit()
+        {
+            Assert.AreEqual(0, RomanNumber.Parse("N"));
+            Assert.AreEqual(1, RomanNumber.Parse("I"));
+            Assert.AreEqual(5, RomanNumber.Parse("V"));
+            Assert.AreEqual(10, RomanNumber.Parse("X"));
+            Assert.AreEqual(50, RomanNumber.Parse("L"));
+            Assert.AreEqual(100, RomanNumber.Parse("C"));
+            Assert.AreEqual(500, RomanNumber.Parse("D"));
+            Assert.AreEqual(1000, RomanNumber.Parse("M"));
+        }
+        
+        [TestMethod]
+        public void RomanNumberParseEmpty()
+        {
+            Assert.IsTrue(
+                Assert.ThrowsException<ArgumentException>(
+                    () => RomanNumber.Parse(String.Empty)
+                ).Message.StartsWith("Invalid digit")
+            );
+        }
+        
+        
+        
+        
+        
     }
 }
