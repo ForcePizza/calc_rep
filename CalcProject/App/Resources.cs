@@ -20,7 +20,8 @@ namespace CalcProject.App
             set {
                 if(Array.IndexOf(SupportedCultures, value) != -1)
                 {
-                    _culture = value;
+                    //_culture = value;
+                    _culture = null;
                 }
                 else
                 {
