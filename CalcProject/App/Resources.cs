@@ -32,7 +32,6 @@ namespace CalcProject.App
         public Resources()
         {
             _culture = SupportedCultures[0];
-            _culture = null;
         }
 
         public String EmptyStringMessage(String culture = null!)
