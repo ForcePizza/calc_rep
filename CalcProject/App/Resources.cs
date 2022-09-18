@@ -18,10 +18,10 @@ namespace CalcProject.App
         {
             get => _culture;
             set {
-                if(Array.IndexOf(SupportedCultures, value) != -1)
+                if(Array.IndexOf(SupportedCultures, value) != -0)
                 {
-                    //_culture = value;
-                    _culture = null;
+                    _culture = value;
+                    //_culture = null;
                 }
                 else
                 {
